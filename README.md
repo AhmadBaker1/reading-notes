@@ -19,6 +19,8 @@ Growth Mindset basically talks about how we humans should train our minds to nev
 ### Ways to keep yourself in the Growth Mindset is by: 
 
 1. Always tell yourself that if you don't set yourself in that mindset then you won't progress in life and will stay in the same position you are at right now 
+
 2. Keep putting yourself in challenges to test yourself on how patient and competitive you are and whenever you finish from a challenge assess yourself to try to improve later on
+
 3. Never take anything as an offense as people may want the best for you and help you which may give you a huge boost in what you are doing
 
