@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Growth Mindset 
 
-You can use the [editor on GitHub](https://github.com/AhmadBaker1/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Growth Mindset basically talks about how we humans should train our minds to never stop developing ourselves and minds as there may be challenges that you will face and instead of giving up you find other ways to overcome these obstacles in order to reach to the final line and complete the challenge you were given to overcome. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**`What we have to do in a Growth Mindset`**
 
-### Markdown
+* Challenges  
+  * We have to overcome them and find different routes to face these challenegs
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Effort 
+  * No matter how hard the task is you will always have to put all your hard work into it in order to succeed and feel self-accomplished
 
-```markdown
-Syntax highlighted code block
+* Criticism 
+  * You will always face critcism by everyone and this may annoy you but you have to listen to other's criticism and accept it and try doing what they say as they may have more experience than you which means it may be what's best for you 
 
-# Header 1
-## Header 2
-### Header 3
+*As Samuel Johnson said about Growth Mindset*
+> Great works are performed, not by strength, but by perseverance.
 
-- Bulleted
-- List
+### Ways to keep yourself in the Growth Mindset is by: 
 
-1. Numbered
-2. List
+1. Always tell yourself that if you don't set yourself in that mindset then you won't progress in life and will stay in the same position you are at right now 
+2. Keep putting yourself in challenges to test yourself on how patient and competitive you are and whenever you finish from a challenge assess yourself to try to improve later on
+3. Never take anything as an offense as people may want the best for you and help you which may give you a huge boost in what you are doing
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AhmadBaker1/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
