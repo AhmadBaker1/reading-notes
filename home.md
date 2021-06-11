@@ -9,6 +9,7 @@ Hello there my name is Ahmad Baker and I am an upcoming software developer ready
 
 
 
-| Page name   |  Page link    |
-| :---        |          ---: |
-| Growth Mind | [Growth Mind](https://ahmadbaker1.github.io/reading-notes/) |
+| Page name      |  Page link    |
+| :---           |          ---: |
+| Growth Mindset | [Growth Mind](https://ahmadbaker1.github.io/reading-notes/)                  |
+| Git Intro      | [Git Intro](https://ahmadbaker1.github.io/reading-notes/intro)             |
